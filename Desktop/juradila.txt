@@ -1,0 +1,17 @@
+Naslovna strana
+sadrzaj
+slika
+pitch deo
+canvas deo i ispravke
+Ispitivanje trzista
+Itvrdjivanje vrednosti za kupce (deo)
+Kanali sitribucije (deo)
+odnosi sa kupcima (deo)
+Prihodi (deo)
+Gantogram
+Klju;ni partneri(deo)
+Tehnicki zahtevi(deo)
+Funkcionalni zahtevi
+Opis rada sistema (i slika)
+Izgled korisnicke app
+Zakljucak
